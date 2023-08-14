@@ -6,7 +6,7 @@ function Home() {
       Home page
 
       cat
-
+      hi
       hi
     </div>
   )
