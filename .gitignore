@@ -4,6 +4,8 @@
 /node_modules
 /.pnp
 .pnp.js
+apikey.txt
+pydebug.py
 
 # testing
 /coverage
